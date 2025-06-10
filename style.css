@@ -1,15 +1,18 @@
 h2 {
-   font-size: 15px;
+   font-size: 30px;
 }
 
 h3 {
    color: green;
+   font-size: 20px;
 }
 
 p {
    color: purple;
+   font-size: 15px;
 }
 
 .lista-de-gatos {
    color: chocolate;
+   font-size: 15px;
 }
