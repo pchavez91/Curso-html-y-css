@@ -5,13 +5,15 @@ h2 {
 
 h3 {
    color: green;
-   font-size: 20px;
-   font-family: "Edu NSW ACT Hand Pre"
+   font-size: 30px;
+   font-family: "Edu NSW ACT Hand Pre"cursive;
 }
 
 p {
    color: purple;
    font-size: 15px;
+   font-family: "Roboto Slab", serif;
+
 }
 
 .lista-de-gatos {
