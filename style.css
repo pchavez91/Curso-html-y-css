@@ -1,11 +1,15 @@
-    h3 {
-       color: green;
-    }
+h2 {
+   font-size: 15px;
+}
 
-    p {
-       color: purple;
-    }
+h3 {
+   color: green;
+}
 
-   .lista-de-gatos {
-      color: chocolate;
-   }
+p {
+   color: purple;
+}
+
+.lista-de-gatos {
+   color: chocolate;
+}
