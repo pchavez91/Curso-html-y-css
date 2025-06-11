@@ -56,3 +56,11 @@ div {
    font-size: 18px;
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+.imagen-de-gato {
+   padding: 20px;
+   background-color: yellow;
+   border-width: 5px;
+   border-style: solid;
+   border-color: black;
+}
