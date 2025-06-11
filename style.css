@@ -31,3 +31,11 @@ p {
 img {
    width: 300px;
 }
+
+.bordes-redondeados {
+   border-radius: 75px;
+}
+
+div {
+   background-color: silver;
+}
