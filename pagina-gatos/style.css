@@ -83,3 +83,8 @@ a[href="https://www.google.com/search?q=gatos&udm=2&sxsrf=AE3TifPcpS92dO26urhB_E
    text-decoration: none;
    font-weight: bold;
 }
+
+body {
+   background-color: bisque;
+   color: chocolate;
+}
