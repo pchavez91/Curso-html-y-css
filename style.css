@@ -17,7 +17,7 @@ p {
 }
 
 .lista-de-gatos {
-   color: chocolate;
+   color: gold;
    font-size: 15px;
 }
 
@@ -36,10 +36,6 @@ img {
    border-radius: 75px;
 }
 
-div {
-   background-color: silver;
-}
-
 #pincha-aqui {
    font-size: 20px;
    color: blue;
@@ -55,6 +51,10 @@ div {
 #lista-de-gatos-odian {
    font-size: 18px;
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div {
+   background-color: crimson;
 }
 
 .imagen-de-gato {
