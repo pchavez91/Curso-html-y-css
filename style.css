@@ -58,6 +58,7 @@ div {
 }
 
 .imagen-de-gato {
+   margin: 15px;
    padding: 20px;
    background-color: yellow;
    border-width: 5px;
