@@ -65,3 +65,11 @@ div {
    border-style: solid;
    border-color: black;
 }
+
+img[title] {
+   border-radius: 30%;
+}
+
+[type="radio"] {
+   margin: 10px;
+}
