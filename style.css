@@ -51,3 +51,8 @@ div {
    border-style: solid;
    border-color: brown;
 }
+
+#lista-de-gatos-odian {
+   font-size: 18px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
