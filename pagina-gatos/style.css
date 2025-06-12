@@ -84,8 +84,8 @@ a[href="https://www.google.com/search?q=gatos&udm=2&sxsrf=AE3TifPcpS92dO26urhB_E
    font-weight: bold;
 }
 
-body {
-   background-color: bisque;
+div {
+   background-color: #eb4034;
    color: chocolate;
 }
 /*comentario en css*/
