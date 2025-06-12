@@ -1,7 +1,7 @@
 .pinguino {
     --pinguino-barriga: white;
     --pinguino-pico: orange;
-    --pinguino-piel: gray;
+    --pinguino-piel: black;
     position: relative;
     margin:  auto;
     display: block;
