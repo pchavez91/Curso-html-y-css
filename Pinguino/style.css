@@ -8,3 +8,71 @@
     width: 300px;
     height: 300px;
 }
+
+.pinguino-superior {
+    top: 10%;
+    left: 25%;
+    background: black;
+    width: 50%;
+    height: 45%;
+}
+
+.mano-derecha {
+
+}
+
+.mano-izquierda {
+
+}
+
+.mejilla-derecha {
+
+}
+
+.mejilla-izquierda {
+
+}
+
+.barriga {
+
+}
+
+.pie-derecho {
+
+}
+
+.pie-izquierdo {
+
+}
+
+.ojo-derecho {
+
+}
+
+.ojo-izquierdo {
+
+}
+
+.color-mejilla-derecha {
+
+}
+
+.color-mejilla-izquierda {
+
+}
+
+.pico-superior {
+
+}
+
+.pico-inferior {
+
+}
+
+body {
+    background: #c6faf1;
+}
+
+.pinguino * {
+    position: absolute;
+}
